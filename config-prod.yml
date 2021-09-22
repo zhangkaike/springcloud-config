@@ -1,1 +1,2 @@
-info --prod
+config:
+ info: "springcloud-prod version=1"
